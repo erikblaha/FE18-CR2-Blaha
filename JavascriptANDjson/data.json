@@ -1,0 +1,69 @@
+{
+    "tasks": [
+        {
+            "taskName": "Take the dog for a walk",
+            "description": "Walking with the dog in a cold summernight, relax and chill.",
+            "importance": 0,
+            "pic": "/Pictures/walking.png",
+            "duration": "2 hours"
+        },
+        {
+            "taskName": "Skiing in the alps",
+            "description": "Skiing with the friends in a cold winternight, make a great day.",
+            "importance": 0,
+            "pic": "/Pictures/skiing.png",
+            "duration": "6 hours"
+        },
+        {
+            "taskName": "Jogging in the city",
+            "description": "Take a nice run in the park, enjoy the lifestyle, dont stress",
+            "importance": 0,
+            "pic": "/Pictures/jogging.jpg",
+            "duration": "1/2 hours"
+        },
+        {
+            "taskName": "Dancing in the moonlight",
+            "description": "A peaceful and joyful celebration of life in the night!",
+            "importance": 0,
+            "pic": "/Pictures/dancing.jpg",
+            "duration": "2 hours"
+        },
+        {
+            "taskName": "Swimming in the pool",
+            "description": "Swimming in the pool, with a nice drink.",
+            "importance": 0,
+            "pic": "/Pictures/swimming.jpg",
+            "duration": "1 1/2 hours"
+
+        },
+        {
+            "taskName": "Take out the trash",
+            "description": "Responsibly disposing of waste by taking out the trash. An important daily task for a clean environment.",
+            "importance": 0,
+            "pic": "/Pictures/trashcan.jpg",
+            "duration": "10 min."
+        },
+        {
+            "taskName": "Watering Plants",
+            "description": " Nurturing and promoting plant growth through regular watering. Essential for a healthy garden.",
+            "importance": 0,
+            "pic": "/Pictures/watering.jpg",
+            "duration": "15 min"
+
+        },
+        {
+            "taskName": "Cleaning the kitchen",
+            "description": "Keeping the kitchen clean and tidy. An important task for hygiene and a pleasant living environment.",
+            "importance": 0,
+            "pic": "/Pictures/cleaning.jpeg",
+            "duration": "1 hour"
+        },
+        {
+            "taskName": "Drink 3L of water per day",
+            "description": "Water is very important for you and your body, do not forget! Drinking atleast 3L per day is minmimum. ",
+            "importance": 0,
+            "pic": "/Pictures/water.jpeg",
+            "duration": "20 min"
+        }
+    ]
+}
