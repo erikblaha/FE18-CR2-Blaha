@@ -12,7 +12,7 @@ fetch('/JavascriptAndjson/data.json')
             <p class="card-text">${val.description} </p>
             <p> ${val.duration} </p>
             <p class="importance">Importance: <span>${val.importance}</span></p>
-            <button class="btn btn-success increase-importance">Priority Level</button>
+            <button class="btn btn-info increase-importance">Increase </button>
           </div>
         </div>
       </div>
