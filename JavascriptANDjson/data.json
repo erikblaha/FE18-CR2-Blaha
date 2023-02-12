@@ -5,6 +5,7 @@
             "description": "Walking with the dog in a cold summernight, relax and chill.",
             "importance": 0,
             "pic": "/Pictures/walking.png",
+            "deadline": "27.01.2022",
             "duration": "2 hours"
         },
         {
@@ -12,6 +13,7 @@
             "description": "Skiing with the friends in a cold winternight, make a great day.",
             "importance": 0,
             "pic": "/Pictures/skiing.png",
+            "deadline": "27.01.2022",
             "duration": "6 hours"
         },
         {
@@ -19,6 +21,7 @@
             "description": "Take a nice run in the park, enjoy the lifestyle, dont stress",
             "importance": 0,
             "pic": "/Pictures/jogging.jpg",
+            "deadline": "27.01.2022",
             "duration": "1/2 hours"
         },
         {
@@ -26,6 +29,7 @@
             "description": "A peaceful and joyful celebration of life in the night!",
             "importance": 0,
             "pic": "/Pictures/dancing.jpg",
+            "deadline": "27.01.2022",
             "duration": "2 hours"
         },
         {
@@ -33,6 +37,7 @@
             "description": "Swimming in the pool, with a nice drink.",
             "importance": 0,
             "pic": "/Pictures/swimming.jpg",
+            "deadline": "27.01.2022",
             "duration": "1 1/2 hours"
 
         },
@@ -41,6 +46,7 @@
             "description": "Responsibly disposing of waste by taking out the trash. An important daily task for a clean environment.",
             "importance": 0,
             "pic": "/Pictures/trashcan.jpg",
+            "deadline": "27.01.2022",
             "duration": "10 min."
         },
         {
@@ -48,6 +54,7 @@
             "description": " Nurturing and promoting plant growth through regular watering. Essential for a healthy garden.",
             "importance": 0,
             "pic": "/Pictures/watering.jpg",
+            "deadline": "27.01.2022",
             "duration": "15 min"
 
         },
@@ -56,6 +63,7 @@
             "description": "Keeping the kitchen clean and tidy. An important task for hygiene and a pleasant living environment.",
             "importance": 0,
             "pic": "/Pictures/cleaning.jpeg",
+            "deadline": "27.01.2022",
             "duration": "1 hour"
         },
         {
@@ -63,6 +71,7 @@
             "description": "Water is very important for you and your body, do not forget! Drinking atleast 3L per day is minmimum. ",
             "importance": 0,
             "pic": "/Pictures/water.jpeg",
+            "deadline": "27.01.2022",
             "duration": "20 min"
         }
     ]
