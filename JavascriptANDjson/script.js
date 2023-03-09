@@ -96,5 +96,5 @@ fetch('/JavascriptAndjson/data.json')
       displayTasks(sortedWeeklyTasks);
     });
 
-    
+
   });
